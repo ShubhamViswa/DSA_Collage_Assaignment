@@ -4,4 +4,4 @@
 
 Question 1  [](Skipped..)
 
-Ques 02.. [Implement Bubble Sort](https://github.com/ShubhamViswa/DSA_Collage_Assaignment/blob/main/bubblesort.cpp)
+Question 2  [Implement Bubble Sort](https://github.com/ShubhamViswa/DSA_Collage_Assaignment/blob/main/bubblesort.cpp)
