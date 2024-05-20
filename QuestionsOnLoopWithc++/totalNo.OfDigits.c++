@@ -1,4 +1,4 @@
-# --> Find the sum of digit in a given number n.
+# --> Find the total no of digit in a given number n.
 
 #include <iostream>
 using namespace std;
